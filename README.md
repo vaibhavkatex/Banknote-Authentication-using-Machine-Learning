@@ -34,14 +34,15 @@ using image-derived statistical features.
 - Target: **Class**
 - Missing Values: **No**
 
-### Features
+## Easy Example 📷
 
-| Feature | Description |
-|---------|-------------|
-| Variance | Variance of Wavelet Transformed Image |
-| Skewness | Skewness of Wavelet Transformed Image |
-| Curtosis | Curtosis of Wavelet Transformed Image |
-| Entropy | Entropy of Image |
+Imagine a photo:
+- Variance	Difference in image colors and brightness.
+- Skewness	Balance of the image pattern.
+- Kurtosis	Sharpness of image details.
+- Entropy	Complexity or randomness of the image.
+
+## Note: In the Banknote Authentication dataset, these values are not entered manually. They are automatically extracted from a scanned image of the banknote. The machine learning model uses these four measurements to decide whether the banknote is Genuine or Forged. This is the simplest explanation to include in a college project or viva.
 
 ### Target
 
