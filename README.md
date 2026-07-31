@@ -3,6 +3,10 @@
 A Machine Learning project that predicts whether a banknote is **Genuine** or **Forged** using various classification algorithms. The project also includes a **Streamlit web application** for real-time predictions.
 
 ---
+## 🚀 Live Demo
+deployed Streamlit application:
+
+🔗 **Streamlit App:**  https://banknote-autintication.streamlit.app/
 
 ## 📌 Project Overview
 
